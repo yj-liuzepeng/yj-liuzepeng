@@ -9,4 +9,4 @@
 - [掘金](https://juejin.cn/user/651349345437885)
 
 
-[![yj-liuzepeng's github stats](https://github-readme-stats.vercel.app/api?username=yj-liuzepeng)](https://github.com/anuraghazra/github-readme-stats)
+[![yj-liuzepeng's github stats](https://github-readme-stats.vercel.app/api?username=yj-liuzepeng&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
